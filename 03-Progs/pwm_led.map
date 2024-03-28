@@ -1,0 +1,19 @@
+RAM Allocation
+Variable                                                          Address   Size
+--------------------------------------------------------------------------------
+key                                                               0x0180       1
+CountKey                                                          0x0181       2
+
+EEPROM Allocation
+Variable                                                          Address   Size
+--------------------------------------------------------------------------------
+pwm1                                                              0x0000       1
+pwm2                                                              0x0001       1
+pwm3                                                              0x0002       1
+pwm4                                                              0x0003       1
+
+Register Allocation
+Variable                                                          Register  Size
+--------------------------------------------------------------------------------
+c                                                                 R4           1
+PressedKey                                                        R3           1
